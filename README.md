@@ -34,7 +34,7 @@ You can configure the port through which your intend to join by specifying the p
 Now we'll load the front end of our application, follow the following steps for the same -:
 
   * cd to the frontend folder in an alternate terminal
-  * Run the following command `npm start
+  * Run the following command `npm start`
   * It will redirect you to the locally hosted webapp on your respective browser
 
 **Accessing the database**
