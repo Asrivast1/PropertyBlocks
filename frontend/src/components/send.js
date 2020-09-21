@@ -49,8 +49,8 @@ class Send extends Component {
     return (
         <Container>
   <br/>
-  <h3><b>SudoCoin</b></h3>
-  <h4><b style={{color: '#007bff'}}>Send unlimited dummy crypto to anyone.</b> </h4>
+  <h3><b style={{color: '#311432'}}>PROPERTY</b></h3>
+  <h4><b style={{color: '#A32CC4'}}>Land registry made simple!</b> </h4>
         <Form onSubmit={this.handleSubmit}>
         <Form.Group as={Row}>
          <Form.Label column sm="2">
@@ -62,17 +62,17 @@ class Send extends Component {
        </Form.Group>
        <Form.Group as={Row}>
         <Form.Label column sm="2">
-          Amount
+          Property location
         </Form.Label>
         <Col sm="2">
-          <Form.Control onChange={this.handleAmount} placeholder="Amount" value={this.state.amount} />
+          <Form.Control onChange={this.handleAmount} placeholder="Property location" value={this.state.amount} />
         </Col>
-        <Col sm="0.5"><b> Sudo </b></Col>
+        <Col sm="0.5"><b> Address </b></Col>
       </Form.Group>
       <Form.Group as={Row}>
       <Col sm="5">
-      <Button variant="primary" type="submit">
-    Send
+      <Button style={{backgroundColor: '#281E58'}} variant="primary" type="submit">
+    Store
   </Button>
   </Col>
   </Form.Group>
