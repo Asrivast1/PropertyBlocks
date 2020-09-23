@@ -49,7 +49,7 @@ class Send extends Component {
     return (
         <Container>
   <br/>
-  <h3><b style={{color: '#311432'}}>PROPERTY</b></h3>
+  <h3><b style={{color: '#311432'}}>Property Blocks</b></h3>
   <h4><b style={{color: '#A32CC4'}}>Land registry made simple!</b> </h4>
         <Form onSubmit={this.handleSubmit}>
         <Form.Group as={Row}>
