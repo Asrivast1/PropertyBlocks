@@ -1,8 +1,13 @@
 # Pasckathon_Fledglings
-A repository created for Pasckathon2.0
 
-
-The project runs on Django framework and was bootstrapped with Create React App.
+ This project offers a completely secure and revolutionising way to store and transfer data by using blockchain. 
+ 
+ * A digital ledger entirely composed of blocks would be created. Every time anyone wants to undertake some form of transaction, and so add information to the blockchain, they need to add an entirely new block. 
+ * Unlike the way most data is written then overwritten by conventional digital ledgers, the advantage of such a system is that a complete record of transactions is there for all to see.
+ * Rather it operates as a peer-to-peer network that is not controlled by any one party. Each participant in the network is known as a node, and each node has equal control over the ledger.
+ * Whenever a transaction is made on the blockchain, all the participating nodes are required to authenticate and approve the transaction.
+ * Since each node has a record of the blockchain, features such as security and transparency are in many ways improved when compared to conventional systems.
+ * The advantages of not relying on a single controlling entity, as well as having multiple nodes maintaining the database is extremely useful.
 
 **Prerequirements**
 
